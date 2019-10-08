@@ -1,2 +1,2 @@
-# web_development
-Practice in web development
+# my_cv
+Practice in making a website with my CV information
